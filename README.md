@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <h1 align="center">Hi 👋, I'm Dexter Nelson</h1>
 <h3 align="center">A passionate Full-stack developer from Miami, FL</h3>
 
