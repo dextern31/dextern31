@@ -1,7 +1,10 @@
+<img src="https://cubettech.com/wp-content/uploads/2021/05/WEB-Full-Stack-Developer.jpg"/>
 <h1 align="center">Hi 👋, I'm Dexter Nelson</h1>
 <h3 align="center">A passionate Full-stack developer from Miami, FL</h3>
 
-<div align="center"><img src="https://media.giphy.com/media/Rpl1sod1vCXK0L2SUN/giphy.gif"/></div>
+<img align="right" src="https://media.giphy.com/media/Rpl1sod1vCXK0L2SUN/giphy.gif"/>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dextern31&label=Profile%20views&color=0e75b6&style=flat" alt="dextern31" /> </p>
 
 - 👨‍💻 All of my projects are available at [https://github.com/dextern31?tab=repositories](https://github.com/dextern31?tab=repositories)
 
