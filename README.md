@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dexter Nelson</h1>
 <h3 align="center">A passionate Full-stack developer from Miami, FL</h3>
 
-<img align="right" src="https://media.giphy.com/media/Rpl1sod1vCXK0L2SUN/giphy.gif"/>
+<div align="center"><img src="https://media.giphy.com/media/Rpl1sod1vCXK0L2SUN/giphy.gif"/></div>
 
 - 👨‍💻 All of my projects are available at [https://github.com/dextern31?tab=repositories](https://github.com/dextern31?tab=repositories)
 
